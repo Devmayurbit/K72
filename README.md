@@ -54,7 +54,7 @@ It includes **GSAP-driven transitions**, **hover animations**, and **category fi
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/k72-react-portfolio.git
+git clone[(https://github.com/Devmayurbit/K72/)]
 ```
 
 ### 2️⃣ Install Dependencies
